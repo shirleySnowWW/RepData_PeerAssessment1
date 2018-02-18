@@ -1,8 +1,8 @@
 PA1\_template.Rmd
 ================
 
-Loading and preprocessing the data
-----------------------------------
+Loading and preprocessing the data for the assig
+------------------------------------------------
 
 ``` r
 library("data.table")

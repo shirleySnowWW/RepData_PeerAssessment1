@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
  
-## Loading and preprocessing the data
+## Loading and preprocessing the data for the assig 
  
 
 ```{r import data}
